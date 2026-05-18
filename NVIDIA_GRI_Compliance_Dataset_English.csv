@@ -1,0 +1,13 @@
+ID,Disclosure Requirement,Corresponding Text,Page Number,Compliance Status,
+301-1 ,Materials used by weight or volume,"In FY24, over 90% of our NVIDIA GPU systems packaging was recyclable materials by weight.",20,Y,
+301-2,Recycled input materials used,We embrace opportunities to reduce packaging materials and increase the proportion of recycled and recyclable materials.,20,Y,
+305-1,Direct (Scope 1) GHG emissions,"Scope 1 and 2: By the end of FY25, and annually thereafter, we expect to achieve and maintain 100% renewable electricity for offices and data centers.","11,12,20,29,30,39,40",Y,
+305-2 ,Energy indirect (Scope 2) GHG emissions,"To manage the GHG emissions footprint of our data centers, labs, and offices, we strategically focus on locating new sites, selecting facilities to expand, managing our operations efficiently, and sourcing renewable energy.","11,12,20,29,30,39,40",Y,
+305-3,Other indirect (Scope 3) GHG emissions,"By the end of FY26, we expect to engage manufacturing suppliers comprising at least 67% of NVIDIA’s scope 3 category 1 GHG emissions, with the goal of effecting supplier adoption of science-based targets.","11,12,20,29,30,39,40",Y,
+306-1 ,Waste generation and significant waste-related impacts,"We aim to reduce the amount of waste we send to landfill through waste reduction, reuse, and recycling initiatives.",12,Y,
+306-3 ,Significant spills,,,N,NVIDIA did not report any significant spills in its FY24 sustainability report.
+302-4 ,Reduction of energy consumption,"We increased the amount of our renewable electricity use to 76%, through on-site renewables and purchasing utility renewable electricity tariffs, energy attribute cert12ificates, and purchase power agreements.",12,Y,
+303-3 ,Water withdrawal,"Water withdrawal: 382,636 m³ in FY24, monitored under sustainability indicators.",32,Y,
+403-1 ,Occupational health and safety management system,"Our Health and Safety (H&S) team oversees workplace conditions for NVIDIANs globally. H&S team 
+members provide guidance to ensure that facilities meet or exceed local safety requirements, promote 
+safe work practices, and support compliance with applicable health and safety legislation and policies.",34,Y,

@@ -1,12 +1,12 @@
 const config = {
               development: {
-                apiBaseUrl: 'http://localhost:8000'
+                apiBaseUrl: import.meta.env.VITE_API_BASE_URL || 'http://localhost:8001'
               },
               production: {
-                apiBaseUrl: 'http://api.example.com'
+                apiBaseUrl: import.meta.env.VITE_API_BASE_URL || 'http://api.example.com'
               },
               test: {
-                apiBaseUrl: 'http://localhost:8000'
+                apiBaseUrl: import.meta.env.VITE_API_BASE_URL || 'http://localhost:8001'
               }
             };
             
